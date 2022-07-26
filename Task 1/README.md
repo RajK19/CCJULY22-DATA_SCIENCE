@@ -1,5 +1,7 @@
 **Task 1 - Stock Analysis**
 
+Desc: Made a Stock Analysis project that fetches data from yahoo finance and analysed their stock trends between years 2010-2021. Finally made a small web app to demonstrate the data in a more interactive way.
+
 **Web App Pictures**
 
 ![Task 1 img 1](https://user-images.githubusercontent.com/68244377/181074862-19b5deaa-ad56-4f15-8aad-b7d18b812eba.jpg)
