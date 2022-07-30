@@ -2,7 +2,15 @@
 
 Made a Stock Analysis project that analyses the stock trends between the years 2010 - 2021, fetching the data from yahoo finance. Trained the model in jupyter notebook and saved the training data to implement it in a web application using streamlit.
 
-(to see training data see the .ipynb notebook)
+(To see training data see the .ipynb notebook)
+
+
+**Video Demo**
+
+
+https://user-images.githubusercontent.com/68244377/181921971-dc90f519-8d73-4528-b284-27c605cb9ef0.mp4
+
+
 
 **Web App Pictures**
 
